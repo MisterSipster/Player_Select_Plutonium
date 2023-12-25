@@ -2,7 +2,7 @@
 CoD.PrivateGameLobby.PlayerSelect = {}
 CoD.PrivateGameLobby.PlayerSelect[1] = {}
 CoD.PrivateGameLobby.PlayerSelect[1].id = "PLAYER_SELECT"
-CoD.PrivateGameLobby.PlayerSelect[1].name = "SELECT CHARACTER"
+CoD.PrivateGameLobby.PlayerSelect[1].name = "CHARACTER"
 CoD.PrivateGameLobby.PlayerSelect[1].hintText = "Select your chracter."
 CoD.PrivateGameLobby.PlayerSelect[1].labels = {}
 CoD.PrivateGameLobby.PlayerSelect[1].labels[1] = "RANDOM"
@@ -25,7 +25,7 @@ CoD.PrivateGameLobby.PlayerSelect[1].gameTypes[1] = "zclassic"
 
 CoD.PrivateGameLobby.PlayerSelect[2] = {}
 CoD.PrivateGameLobby.PlayerSelect[2].id = "PLAYER_SELECT"
-CoD.PrivateGameLobby.PlayerSelect[2].name = "SELECT CHARACTER"
+CoD.PrivateGameLobby.PlayerSelect[2].name = "CHARACTER"
 CoD.PrivateGameLobby.PlayerSelect[2].hintText = "Select your chracter."
 CoD.PrivateGameLobby.PlayerSelect[2].labels = {}
 CoD.PrivateGameLobby.PlayerSelect[2].labels[1] = "RANDOM"
@@ -46,7 +46,7 @@ CoD.PrivateGameLobby.PlayerSelect[2].gameTypes[1] = "zclassic"
 
 CoD.PrivateGameLobby.PlayerSelect[3] = {}
 CoD.PrivateGameLobby.PlayerSelect[3].id = "TEAM_SELECT"
-CoD.PrivateGameLobby.PlayerSelect[3].name = "SELECT TEAM"
+CoD.PrivateGameLobby.PlayerSelect[3].name = "TEAM"
 CoD.PrivateGameLobby.PlayerSelect[3].hintText = "Select your team."
 CoD.PrivateGameLobby.PlayerSelect[3].labels = {}
 CoD.PrivateGameLobby.PlayerSelect[3].labels[1] = "RANDOM"
@@ -64,7 +64,7 @@ CoD.PrivateGameLobby.PlayerSelect[3].gameTypes[1] = "zstandard"
 
 CoD.PrivateGameLobby.PlayerSelect[4] = {}
 CoD.PrivateGameLobby.PlayerSelect[4].id = "PLAYER_SELECT"
-CoD.PrivateGameLobby.PlayerSelect[4].name = "SELECT CHARACTER"
+CoD.PrivateGameLobby.PlayerSelect[4].name = "CHARACTER"
 CoD.PrivateGameLobby.PlayerSelect[4].hintText = "Select your character."
 CoD.PrivateGameLobby.PlayerSelect[4].labels = {}
 CoD.PrivateGameLobby.PlayerSelect[4].labels[1] = "RANDOM"
